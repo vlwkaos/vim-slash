@@ -1,3 +1,6 @@
+This is fork of vim-slash to use with [vscode-neovim](https://github.com/asvetliakov/vscode-neovim) extension
+=========
+
 vim-slash
 =========
 
